@@ -1,0 +1,13 @@
+age,gender,nationality,ethnicity,education,employment_status,robot_experience,tech,height_cm,help_robot,sorry_robot,unfriendly,anxious,natural_movement,shy,no_sorry_robot,likeable,enjoy_talking,at_ease,persuasive,cared_about,insensitive,physically_competent,capable,relatable,assertive,appreciated_help,uncomfortable,no_enjoy_interaction,no_care_about,move_artificial,friendly,indifferent,participant_id,condition,time_help_robot,help_attempts,interaction_time,experiment_runtime
+22,Female,Spain,White-Other,Foundation-degree-or-some-university-studies,Full-time-student-(including-PhD-student),1,4,171,5,2,1,2,3,4,1,4,4,3,2,4,2,3,4,2,2,3,4,1,1,2,4,2,101,Acknowledgement,37,4,300,227
+21,Female,Spain,White-Other,Undergraduate-degree,Full-time-student-(including-PhD-student),1,3,162,5,1,1,4,3,1,1,5,5,3,5,5,2,2,2,2,3,4,1,5,1,3,4,2,102,Non-acknowledgement,32,4,167,181
+25,Male,UK,White-British,Doctorate-(PhDorDPhil),Full-time-employment,3,5,186,4,3,2,3,2,2,3,4,2,3,3,3,4,3,3,3,4,2,3,2,3,4,3,2,104,Acknowledgement,177,3,25,190
+28,Male,UK,White-British,A-Level-or-equivalent,Full-time-employment,1,5,180,3,3,2,3,4,3,2,4,2,2,3,3,2,2,4,3,2,3,3,4,3,4,5,3,105,Non-acknowledgement,39,7,180,184
+25,Male,Spain,Any-other-ethnic-background,Postgraduate-degree,Full-time-employment,4,4,180,5,3,4,4,2,1,3,4,2,2,1,4,4,4,5,2,4,1,4,3,3,5,3,5,107,Acknowledgement,50,3,240,249
+47,Female,UK,White-British,Foundation-degree-or-some-university-studies,Full-time-employment,1,4,165,5,2,2,2,3,4,4,4,4,4,3,4,1,3,4,4,3,4,1,1,3,5,5,2,108,Non-acknowledgement,90,11,228,225
+29,Female,US,White-Other,Postgraduate-degree,Full-time-employment,1,5,157,1,5,1,1,2,1,1,1,3,5,1,1,1,2,4,1,1,2,1,4,5,4,5,5,110,Acknowledgement,30,2,144,171
+24,Male,UK,White-British,Undergraduate-degree,Full-time-employment,2,5,192,4,1,3,5,1,1,4,2,2,4,2,1,4,1,2,1,5,3,4,4,5,5,3,5,111,Non-acknowledgement,15,1,194,170
+36,Male,UK,White-British,Postgraduate-degree,Full-time-student-(including-PhD-student),1,5,188,4,1,1,3,3,2,5,3,4,2,3,2,2,2,4,3,3,1,4,2,2,3,5,4,113,Acknowledgement,72,6,251,254
+22,Male,UK,White-British,Postgraduate-degree,Full-time-student-(including-PhD-student),1,4,175,4,1,2,1,2,3,5,4,4,3,3,3,5,1,4,2,3,1,1,3,2,4,4,5,116,Acknowledgement,52,5,100,230
+28,Male,UK,White-British,Postgraduate-degree,Full-time-student-(including-PhD-student),2,4,180,3,2,2,3,3,2,5,3,2,2,3,2,4,2,3,2,3,2,4,3,3,2,4,3,117,Non-acknowledgement,23,2,100,204
+23,Female,Cyprus,White-Other,Postgraduate-degree,Full-time-student-(including-PhD-student),3,4,170,3,4,4,5,1,2,2,1,1,3,2,1,5,3,5,2,4,2,5,5,5,5,2,2,119,Non-acknowledgement,71,9,100,242
